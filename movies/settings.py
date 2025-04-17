@@ -23,14 +23,16 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-4cq8c7vt1a*on8@u6hkgkidla6$p5_)7c%v+w_#l3e&ss&rgpn'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1']
 
 
 # Application definition
 
 INSTALLED_APPS = [
+    'movies',
+    # help django to find my template
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',

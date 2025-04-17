@@ -28,6 +28,7 @@
       <change beforePath="$PROJECT_DIR$/../COSC440_Assignment1/assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/../COSC440_Assignment1/assignment.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../COSC440_Assignment1/assignment1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../COSC440_Assignment1/assignment1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../COSC440_Assignment1/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../COSC440_Assignment1/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PycharmProjects/pythonProject/midtest1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PycharmProjects/pythonProject/midtest1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PycharmProjects/pythonProject/python/interview.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PycharmProjects/pythonProject/python/interview.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PycharmProjects/pythonProject/python/test BLOOM.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PycharmProjects/pythonProject/python/test BLOOM.py" afterDir="false" />
@@ -43,7 +44,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
@@ -58,7 +59,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="RunManager">
